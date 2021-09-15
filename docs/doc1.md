@@ -1,14 +1,14 @@
 ---
 id: doc1
-title: Style Guide 111
-sidebar_label: Style Guide 222
+title: Style Guide 5555
+sidebar_label: Style Guide 3333
 slug: /
 hide_title: false
 hide_table_of_contents: true
 ---
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-## Markdown Syntax
+## Markdown Syntax 12312321
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
@@ -150,7 +150,7 @@ Quote break.
   <dd>Is something people use sometimes.</dd>
 
   <dt>Markdown in HTML</dt>
-  <dd>Does \*not\* work \*\*very\*\* well. Use HTML <em>tags</em>.</dd>
+  <dd>Does \\*not\\* work \\*\\*very\\*\\* well. Use HTML <em>tags</em>.</dd>
 </dl>
 
 - - -
