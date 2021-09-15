@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: Style Guide 111
-sidebar_label: Style Guide
+sidebar_label: Style Guide 222
 slug: /
 hide_title: false
 hide_table_of_contents: true
